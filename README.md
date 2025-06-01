@@ -1,4 +1,4 @@
-Zabbix/Grafana/Postgres - docker compose
+Zabbix/Grafana/Postgres - docker compose image for quick start
 
 - **Postgresql:**                16-alpine
 - **Zabbix Server:**             7.2.1
